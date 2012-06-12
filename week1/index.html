@@ -1,0 +1,78 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>JavascriptMadLibs</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="The Chopping Block, Inc." />
+	<meta name="geo.country" content="US" />
+	<meta name="dc.language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<style type="text/css" media="screen">		
+		/*local styles if any (quick tests and local only overrides)*/
+	</style>
+</head>
+<body>
+
+	<div class="wrap" >
+		Project: JavascriptMadLibs
+<ul>		
+		<li>1) Place to enter words that will be in the story</li>
+		<li>2) Way to say "Make those words show up in the story"</li>
+		<li>3) Story</li>
+		
+</ul>	
+
+
+	<p>
+		A Place:
+		<select id="word1">
+			<option value="The Office">The Office</option>
+			<option value="A Party">A Party</option>
+			<option value="School">School</option>
+		</select>		
+	</p>
+	<p>
+		A Game you play: <input type="text" name="word2" value="" id="word2">		
+	</p>
+	<p>
+		Girl's Name: <input type="text" name="word3" value="" id="word3">		
+	</p>
+	<p>
+		Boys's Name: <input type="text" name="word4" value="" id="word4">		
+	</p>
+	<span onclick="makeStory();">Madlib</span>
+
+	
+	<div id="story"></div>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+	
+	
+	var makeStory = function makeStory(){
+		
+		var word1 = document.getElementById('word1').value;
+		var word2 = document.getElementById('word2').value;
+		var word3 = document.getElementById('word3').value;
+		var word4 = document.getElementById('word4').value;
+
+		
+		var story = "I'm at " + word1 + " playing " + word2 + " with my best friend " + word3 + " who is mad in love with " + word4;
+		
+		
+		document.getElementById('story').innerHTML = story;
+		
+	}
+	
+	
+</script>	
+</body>
+</html>

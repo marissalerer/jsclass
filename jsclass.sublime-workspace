@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"He",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"val",
+				"validates_uniqueness_of"
+			],
+			[
+				"Hel",
+				"Verdana, Geneva, Arial, Helvetica, sans-serif"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"in",
+				"integer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"templa",
+				"Snippet: Examples Table"
+			],
+			[
+				"reload",
+				"Snippet: When I reload the page"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"snippet: ",
+				"Snippet: Behat / Feature / Given I Have A ..."
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Project: Add Folder"
+			],
+			[
+				"sear",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marissalerer/Desktop/test.html",
+		"/Users/marissalerer/Sites/working/jparkin/Magnetic-Photo-Contest/js/jquery.dropkick-1.0.0.js",
+		"/Users/marissalerer/Sites/working/jparkin/Magnetic-Photo-Contest/sass/_sassybuttons.scss",
+		"/Users/marissalerer/Sites/working/FTOP_Git/app/views/time_entries/report.html.erb",
+		"/Users/marissalerer/Sites/working/FTOP_Git/app/controllers/members_controller.rb",
+		"/Users/marissalerer/Sites/working/FTOP_Git/app/helpers/time_entries_helper.rb",
+		"/Users/marissalerer/Sites/working/ftop/Gemfile",
+		"/Users/marissalerer/Sites/working/ftop/app/views/time_entries/_form.html.erb",
+		"/Users/marissalerer/Sites/working/ftop/app/views/members/show.html.erb",
+		"/Users/marissalerer/Sites/working/ftop/app/assets/javascripts/application.js",
+		"/Users/marissalerer/Sites/working/ftop/db/migrate/20120415234305_create_members.rb",
+		"/Users/marissalerer/Sites/working/ftop/app/models/time_entry.rb",
+		"/Users/marissalerer/Sites/working/ftop/app/models/member.rb",
+		"/Users/marissalerer/Sites/working/ftop/app/views/members/index.html.erb",
+		"/Users/marissalerer/Sites/working/ftop/app/models/supervisor.rb",
+		"/Users/marissalerer/Sites/working/ftop/db/migrate/20120425172143_create_supervisors.rb",
+		"/Users/marissalerer/Sites/working/ftop/config/routes.rb",
+		"/Users/marissalerer/Sites/working/ftop/app/views/supervisors/_form.html.erb",
+		"/Users/marissalerer/Sites/working/ftop/app/views/supervisors/show.html.erb",
+		"/Users/marissalerer/Sites/working/ftop/app/views/supervisors/index.html.erb",
+		"/Users/marissalerer/Sites/working/ftop/app/controllers/supervisors_controller.rb",
+		"/Users/marissalerer/Desktop/clean/10043-0.jpg",
+		"/Volumes/Extra Drive/Insync/marissalerer@gmail.com/Clients/GBDD/completed-dare.html",
+		"/Volumes/Extra Drive/Insync/marissalerer@gmail.com/Clients/GBDD/sass/screen.scss",
+		"/Volumes/Extra Drive/Insync/marissalerer@gmail.com/Clients/GBDD/stylesheets/screen.css",
+		"/Users/marissalerer/Desktop/SASSNotes.scss.txt",
+		"/Users/marissalerer/Desktop/SASSNotes.txt",
+		"/Users/marissalerer/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/marissalerer/Sites/working/ftop/db/migrate/20120415231220_create_time_entries.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"horiz",
+			"main",
+			"footer",
+			"main",
+			"bauer",
+			"project_name",
+			"mask",
+			"data-title",
+			"roll",
+			"key_man",
+			"move",
+			"dare-entry-l",
+			"dare-ent",
+			"horiz"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"con",
+				"config.rb"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true
+}
